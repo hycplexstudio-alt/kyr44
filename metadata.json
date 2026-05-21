@@ -1,0 +1,6 @@
+{
+  "name": "Kyr44",
+  "description": "Una inteligencia artificial conversacional avanzada, rápida y personalizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
